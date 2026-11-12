@@ -1,8 +1,8 @@
-# HALDR
+# HALDR — clothing store demo
 
-Storefront for HALDR — clothing, shoes and trek gear.
+Demo storefront for HALDR, a fictional brand selling clothing, shoes and trek gear.
 
-Live: https://haldr-store.vercel.app
+Live: https://haldr-clothing-demo.vercel.app
 
 ## Features
 
